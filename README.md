@@ -1,14 +1,14 @@
 Name – Divya Ashish
-MBC SQL Assessment Solutions 
+MBC SQL Assessment Solutions
 
 1.Create the “XXBCM_ORDER_MGT" table using the script - DB_Prequisite.sql
 Answer: - Kindly execute the file “DB_Prequisite.sql” which will create the table “XXBCM_ORDER_MGT”
 
 2.Based on the data provided implement a database schema with necessary tables, columns, data types and constraints. Create your tables in the database with appropriate naming convention. The tables should be appropriately normalized.
 Answer: - To create tables in the database, kindly execute the file “DB_Tables.sql” which will create the following tables: -
- 2.1. XXBCM_ORDER_MGT_CLR : Copy of table “XXBCM_ORDER_MGT” with all cleaned data
- 2.2. XXBCM_SUPPLIER : Table contain all data about supplier 
- 2.3. XXBCM_TRANSACTION : Table contain all data about transactions
+ • XXBCM_ORDER_MGT_CLR : Copy of table “XXBCM_ORDER_MGT” with all cleaned data
+ • XXBCM_SUPPLIER : Table contain all data about supplier 
+ • XXBCM_TRANSACTION : Table contain all data about transactions
 
 3.Develop a SQL procedure to trigger a migration process that will extract information from table "XXBCM_ORDER_MGT" and load them in tables that you created with proper data format. You are expected to create a database package with appropriate functions or procedures. All the database objects that you need to create shall be available on your working database environment and properly compiled.
 Answer: -
