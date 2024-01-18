@@ -1,5 +1,5 @@
 Name – Divya Ashish
-MBC SQL Assessment Solutions
+MBC SQL Assessment Solutions 
 
 1.Create the “XXBCM_ORDER_MGT" table using the script - DB_Prequisite.sql
 Answer: - Kindly execute the file “DB_Prequisite.sql” which will create the table “XXBCM_ORDER_MGT”
